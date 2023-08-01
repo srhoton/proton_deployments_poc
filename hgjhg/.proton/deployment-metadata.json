@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "88cc39c7-d52d-4a03-a6ab-7f2c7b2ca5b5",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:705740530616:environment/hgjhg",
+    "templateArn" : "arn:aws:proton:us-east-1:705740530616:environment-template/vpc-creation",
+    "templateMajorVersion" : "5",
+    "templateMinorVersion" : "0"
+  }
+}
