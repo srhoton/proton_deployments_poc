@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "958c6c42-fcf4-4907-8438-07d3ebb2ba0c",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:705740530616:environment/srhoton-test",
+    "templateArn" : "arn:aws:proton:us-east-1:705740530616:environment-template/vpc-creation",
+    "templateMajorVersion" : "4",
+    "templateMinorVersion" : "2"
+  }
+}
