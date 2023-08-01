@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "8a0e5be1-1b7d-43b1-a5fc-b877d9288ade",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:705740530616:environment/home-lab-vpc",
+    "templateArn" : "arn:aws:proton:us-east-1:705740530616:environment-template/vpc-creation",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "2"
+  }
+}
