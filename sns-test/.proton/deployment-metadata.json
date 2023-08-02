@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "e2bacce5-f4af-46a4-b220-bd1fad5f991c",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:705740530616:environment/sns-test",
+    "templateArn" : "arn:aws:proton:us-east-1:705740530616:environment-template/sns",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
