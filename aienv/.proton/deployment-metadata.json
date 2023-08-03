@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "b6644bb8-3aa1-4b49-8e4e-67b683ef3e96",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:705740530616:environment/aienv",
+    "templateArn" : "arn:aws:proton:us-west-2:705740530616:environment-template/sns",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
