@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "92822eb6-39cc-4420-bf21-7b790dbf4ade",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:705740530616:environment/snstest",
+    "templateArn" : "arn:aws:proton:us-west-2:705740530616:environment-template/sns",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "2"
+  }
+}
